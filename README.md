@@ -23,3 +23,5 @@ Copy the code from Photon_code.ino into the Particle IDE (https://www.particle.i
 In Shopify go to Settings> Notifications> Create a webhook  - Create an event and enter the URL of the PHP file you have uploaded.
 
 Sit back & enjoy.
+
+<iframe src="https://player.vimeo.com/video/139257382?title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/139257382">Notification bug</a> from <a href="https://vimeo.com/fivesimplesteps">Five Simple Steps</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
