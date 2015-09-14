@@ -1,6 +1,6 @@
 # Notification-bug
 
-###A stanadlone device to alert Shopify store owners of sales, cart updates or traffic spikes.
+###A standlaone device to alert Shopify store owners of sales, cart updates or traffic spikes.
 
 Parts required:   
 Photon wifi Dev kit   
