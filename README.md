@@ -10,7 +10,7 @@ Solder
 USB lead   
 PLA for 3D printer   
 
-Full details on the Shopify Partners blog at : xxxxxxxxxxxxx.com
+Full details on the Shopify Partners blog at : https://www.shopify.com/partners/blog/65140931-how-i-built-a-notification-gadget-for-my-shopify-store
 
 ###Short version: 
 
